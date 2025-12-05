@@ -1,1 +1,23 @@
-/* Add CSS Styling */
+/* all odd number elements */
+.odd {
+    background-color: rgb(252, 119, 79);
+    font-family: verdana, Dejavu sans, sans-serif;
+    
+}
+/* element number 2 */
+#even_2 {
+color: blue;
+font-size: 36px;
+}
+
+/* element number 3 get additional font size */
+.three {
+    font-size: 24px;
+}
+
+/* element number 4 */
+#even_4 {
+    background-color: rgb(138, 236, 138);
+    font-size: 24px;
+    font-weight: bold;
+}
