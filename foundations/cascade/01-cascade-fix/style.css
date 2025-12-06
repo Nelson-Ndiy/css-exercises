@@ -15,7 +15,6 @@ body {
 }
 
 
-
 #confirm-button {
   background: green;
   color: white;
@@ -27,8 +26,8 @@ body {
   color: rgb(0, 0, 0);
   font-size: 20px;
 }
-
-div {
+/* increase specifisity of child */
+.text .child {
   color: rgb(0, 0, 0);
   font-weight: 800;
   font-size: 14px;
